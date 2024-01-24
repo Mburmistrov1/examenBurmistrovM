@@ -1,0 +1,7 @@
+-classpath 'H:\\examen\\build\\classes\\java\\main;H:\\examen\\build\\resources\\main'
+-d 'H:\\examen\\build\\docs\\javadoc'
+-doctitle 'test API'
+-notimestamp 
+-quiet 
+-windowtitle 'test API'
+'H:\\examen\\src\\main\\java\\wrapper\\BookingSystem.java'
